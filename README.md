@@ -5,5 +5,7 @@ This game was for a project class, I used numerous public assets to build the wo
 3. Sounds
 4. World Design and Creation
 
-https://youtu.be/b38mWUxDbBI
+https://github.com/JustinBLDang/Unity3DSchoolProject/assets/57662868/5aea890c-58a1-4291-b14f-e260b1eafb96
+
+
 
