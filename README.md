@@ -1,5 +1,5 @@
 # Unity3DSchoolProject
-This game was for a project class, I used numerous public assets to build the world and developed the following features:
+This game was for a project class, I used public assets to build the world and developed the following:
 1. Player Movement
 2. Sprite Billboards
 3. Sounds
